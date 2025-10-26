@@ -1,4 +1,4 @@
-[![Black hexagonal Node.js logo with green geometric shapes forming an 'O' and 'JS', and a green center in the 'e'](./logos/nodejs.svg)](https://nodejs.org/en/)
+[![Black hexagonal Node.js logo with green geometric shapes forming an 'o' and 'js', and a green center in the 'e'](./logos/nodejs.svg)](https://nodejs.org/en/)
 [![Blue square TypeScript logo with 'TS' letters in white](./logos/typescript.svg)](https://www.typescriptlang.org/)
 [![Yellow square JavaScript logo with 'JS' letters in black](./logos/javascript.svg)](https://tc39.es/ecma262/)
 [![Purple gradient Vite logo shaped like a stylized 'V' arrow with an yellow lighting in the middle](./logos/vite.svg)](https://vite.dev/)
